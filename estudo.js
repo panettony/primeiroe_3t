@@ -15,3 +15,18 @@ function escreva(){
 
     
 }
+function minhaTabuada(){
+    for(let i=1; i <=10; i++){
+        for(let j = 1; j<= 10; j++){
+
+        }
+        document.write(tabuada + " x " + i + " = " + (tabuada*1)+"<br>");
+    }
+}
+
+function quadrado(){
+    for(let i = 1; i < 10; i++){
+        document.write("o quadrado de" + 1 + " é "+ (1*1) + "<br");
+
+    }
+}
