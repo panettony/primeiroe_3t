@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.calculadora {
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    color: blanchedalmond;
+    padding: 15px;
+    border-radius: 10px;
+}
+.calculadora input {
+    background: burlywood;
+    color: cornsilk;
+    border-radius: 5px;
+    padding: 5px;
+}
+#btmCalc {
+    background: darkgreen;
+    margin-top: 20px;
+    padding: 5px;
+}
+#btnCalc:hover {
+    background: darkolivegreen;
+    color: darkseagreen;
+    cursor: pointer;
+}
+#
