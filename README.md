@@ -1,7 +1,7 @@
-# terceiro trimestre
+# Terceiro Trimestre
 
 ## Identificação
-Maria Angélica - Nr. 25
+maria angélica S. Gumiero-nr:35
 
 ## Conteúdo
-HTML,CSS e javaScript
+HTML, CSS e JavaScript
